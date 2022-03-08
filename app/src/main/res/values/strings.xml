@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">HaMirLir</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="ushqehu">Ushqehu</string>
+    <string name="per_tu_kthyer_perseri">per tu kthyer perseri</string>
+    <string name="logohu">Logohu</string>
+    <string name="registrohu">Registrohu</string>
+    <string name="ushqehu_per_tu_kthyer_perseri">Ushqehu per tu kthyer perseri</string>
+    <string name="regjistrohu">Regjistrohu</string>
+    <string name="welcome_bg_image">Welcome Bg Image</string>
+    <string name="perdoruesi">Perdoruesi</string>
+    <string name="fjalekalimi">Fjalekalimi</string>
+    <string name="perserit_fjalekalimin">Perserit Fjalekalimin</string>
+    <string name="nuk_keni_account_kliko_per_tu_rregjistruar">Nuk keni account? Kliko per tu rregjistruar</string>
+    <string name="tashme_jeni_perdorues_kliko_ketu_per_tu_loguar">Tashme jeni perdorues? Kliko ketu per tu loguar</string>
+    <string name="text_test_dish">Text Test Dish</string>
+    <string name="pershendetje">Pershendetje</string>
+    <string name="hamirlir">HaMirLir</string>
+    <string name="sandwich">sandwich</string>
+    <string name="emer_kategorie">Emer Kategorie</string>
+</resources>
